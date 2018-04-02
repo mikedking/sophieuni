@@ -1,0 +1,9 @@
+Blow Dry;1;10.0;
+Dry Trim;1;10.0;
+Cut and Blow Dry;2;15.0
+Hair Dye Highlights;2;40.0;
+Hair Dye Lowlights;2;40.0;
+Hair Dye Red;3;50.0;
+Hair Dye Blonde;3;60.0;
+Hair Dye Brown;3;60.0;
+Hair Styling Services;2;20.0;

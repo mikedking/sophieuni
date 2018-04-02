@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>exit.png</file>
+        <file>menu-alt-256.png</file>
+        <file>remote-logoff.png</file>
+        <file>setup-folder-icon.png</file>
+        <file>Set_Up.png</file>
+        <file>integration-512.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+Joanne;Donald;07938472637;**Part-Time**;Blow Dry;Dry Trim;Cut and Blow Dry;
+Avaliability;Monday: 09:00 Till 17:00;Tuesday: OFF;Wednesday: 12:00 Till 17:00;Thursday: OFF;Friday: OFF; Saturday: 09:00 Till 12:00;Sunday: OFF;
+Michelle;Michaels;07946225374;**Part-Time**;Hair Dye Highlights;Hair Dye Lowlights;	
+Avaliability;Monday: 12:00 Till 17:00;Tuesday: OFF; Wednesday: 12:00 Till 17:00; Thursday: 12:00 Till 17:00;Friday: OFF;Saturday: 09:00 Till 17:00;Sunday: OFF;	
+May;Lucas;07934728374;**Part-Time**;Hair Dye Brown;Hair Dye Blonde;Hair Dye Red;Hair Dye Bright Colour;
+Avaliability;Monday: OFF;Tuesday: 09:00 Till 17:00; Wednesday: 09:00 Till 17:00;Thursday: OFF;Friday: OFF; Saturday:09:00 Till 17:00;Sunday: OFF
+Lucy;O'Shea;07538394812;**Part-Time**;Hair Styling Service;
+Avaliability;Monday: OFF;Tuesday: OFF;Wednesday: 09:00 Till 12:00; Thursday: 12:00 Till 17:00;Friday: 12:00 Till 17:00;Saturday: 09:00 Till 17:00;Sunday OFF;
+Sophie;Coffey;07364736283;**Part-Time**;09:00Blow Dry;Dry Trim;Cut and Blow Dry;Hair Styling Service;
+Avaliability;Monday: 12:00 Till 17:00;Tuesday: OFF; Wednesday: OFF;Thursday: 09:00 Till 12:00;Friday: 12:00 Till 17:00;Saturday: 09:00 Till 17:00;Sunday: OFF;
+Linda;Cassey;07384928371;**Part-Time**;Hair Dye Brown;Hair Dye Blonde;Hair Dye Red;Hair Dye Bright Colour;Hair Dye Highlights; Hair Dye Lowlights;
+Avaliability;Monday: 09:00 Till 12:00;Tuesday: OFF;Wednesday: OFF;Thursday: 09:00 Till 12:00;Friday: 09:00 Till 12:00;Saturday: 12:00 Till 17:00;Sunday: OFF
+Kirsty;Jolie;07485748345;**Part-Time**;Blow Dry;Dry Trim;Cut and Blow Dry;
+Avaliability;Monday: 09:00 Till 12:00;Tuesday:09:00 Till 17:00;Wednesday: OFF;Thursday: OFF; Friday: 09:00 Till 17:00;Saturday: OFF;Sunday: OFF
+Angela;Macy;07394482734;**Full-Time**;Blow Dry;Dry Trim;Cut and Blow Dry;Hair Dye Highlights;Hair Dye Lowlights;
+Avaliability;Monday: 09:00 Till 17:00;Tuesday: 09:00 Till 17:00;Wednesday: 09:00 Till 17:00;Thursday: 09:00 Till 17:00;Friday: 09:00 Till 17:00;Saturday: OFF;Sunday; OFF 
+Sharon;Lesly;07485495382;**Full-Time**;Blow Dry;Dry Trim;Cut and Blow Dry;Hair Dye Highlights;Hair Dye Lowlights;Hair Dye Brown;Hair Dye Blonde;Hair Dye Red;Hair Dye Bright Colour;
+Avaliability;Monday: OFF; Tuesday:09:00 Till 17:00;Wednesday: 09:00 Till 17:00;Thursday: 09:00 Till 17:00;Friday: 09:00 Till 17:00;Saturday: 09:00 Till 17:00;Sunday: OFF
+Lauren;Jones;07328493234;**Full-Time**;Blow Dry;Dry Trim;Cut and Blow Dry;Hair Dye Highlights;Hair Dye Lowlights;Hair Dye Brown;Hair Dye Blonde;Hair Dye Red;Hair Dye Bright Colour;
+Avaliability;Monday: 09:00 Till 17:00;Tuesday: 09:00 Till 17:00;Wednesday: 09:00 Till 17:00;Thursday: 09:00 Till 17:00;Friday: 09:00 Till 17:00;Saturday: OFF;Sunday; OFF
